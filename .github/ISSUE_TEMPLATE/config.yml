@@ -1,8 +1,11 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
+  - name: Report a non-security bug in ServiceStack/Issues
+    url: https://github.com/ServiceStack/Issues/issues/new/choose
+    about: ServiceStack/Issues is the central repository for all public ServiceStack bug reports.
   - name: Report a security vulnerability privately
-    url: https://servicestack.net/security
-    about: Do not disclose security vulnerabilities in public issues. Use private reporting instead.
+    url: https://github.com/ServiceStack/ServiceStack/security/advisories/new
+    about: Keep vulnerability details out of public issues. Use private reporting instead.
   - name: ServiceStack security policy and alternative reporting channel
     url: https://servicestack.net/security
     about: Reporting instructions, scope, response targets, and coordinated disclosure.
