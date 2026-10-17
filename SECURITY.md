@@ -6,6 +6,9 @@ For ServiceStack framework libraries, use [GitHub private vulnerability reportin
 For other repositories, use their private reporting channel where enabled, or the [ServiceStack security reporting portal](https://account.servicestack.net/security).
 A ServiceStack account or paid subscription is not required to use GitHub private reporting.
 
+For non-security bug reports, use [ServiceStack/Issues](https://github.com/ServiceStack/Issues).
+The main ServiceStack repository has public issues disabled.
+
 See our [security policy](https://servicestack.net/security) for reporting instructions, scope, response targets, version guidance, and coordinated disclosure.
 Include the affected repository, package, exact version or commit, reproduction steps, impact, and your preferred contact details.
 Please use one reporting channel and keep details private while we coordinate a fix.
