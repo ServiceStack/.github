@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability privately
+    url: https://servicestack.net/security
+    about: Do not disclose security vulnerabilities in public issues. Use private reporting instead.
+  - name: ServiceStack security policy and alternative reporting channel
+    url: https://servicestack.net/security
+    about: Reporting instructions, scope, response targets, and coordinated disclosure.
